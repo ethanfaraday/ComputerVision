@@ -3,8 +3,8 @@ import numpy as np
 import cv2
 from scipy.optimize import least_squares
 
-from lib.visualization import plotting
-from lib.visualization.video import play_trip
+from VisualOdometry.lib.visualization import plotting
+from VisualOdometry.lib.visualization.video import play_trip
 
 from tqdm import tqdm
 
